@@ -1,0 +1,6 @@
+@Concreserv_HostAddress = http://localhost:5155
+
+GET {{Concreserv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
